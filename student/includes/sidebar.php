@@ -50,13 +50,13 @@ foreach($results as $row)
             </li>
             <li class="nav-item">
               <a class="nav-link" href="challenges.php">
-                <span class="menu-title">View Challenges</span>
+                <span class="menu-title">View Challenges (Coming soon)</span>
                 <i class="icon-book-open menu-icon"></i>
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="view-assigments.php">
-                <span class="menu-title">View Assignments</span>
+                <span class="menu-title">View Assignments (Coming Soon)</span>
                 <i class="icon-book-open menu-icon"></i>
               </a>
             </li>
