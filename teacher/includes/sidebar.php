@@ -86,25 +86,25 @@ foreach($results as $row)
               </div>
               <li class="nav-item">
               <a class="nav-link" data-toggle="collapse" href="#auth2" aria-expanded="false" aria-controls="auth">
-                <span class="menu-title">Assingment</span>
+                <span class="menu-title">Assingment (Coming Soon)</span>
                 <i class="icon-doc menu-icon"></i>
               </a>
               <div class="collapse" id="auth2">
                 <ul class="nav flex-column sub-menu">
-                  <li class="nav-item"> <a class="nav-link" href="add-assignment.php"> Add Assignment </a></li> <!-- To be added -->
-                  <li class="nav-item"> <a class="nav-link" href="view-asm.php"> View Submissions </a></li> <!-- To be added -->
+                <!--  <li class="nav-item"> <a class="nav-link" href="add-assignment.php"> Add Assignment </a></li> To be added -->
+                <!--  <li class="nav-item"> <a class="nav-link" href="view-asm.php"> View Submissions </a></li> To be added -->
                 </ul>
               </div>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="collapse" href="#auth2" aria-expanded="false" aria-controls="auth">
-                <span class="menu-title">Challenge</span>
+                <span class="menu-title">Challenge (Coming Soon)</span>
                 <i class="icon-doc menu-icon"></i>
               </a>
               <div class="collapse" id="auth2">
                 <ul class="nav flex-column sub-menu">
-                  <li class="nav-item"> <a class="nav-link" href="update-asm.php"> Add Challenges </a></li> <!-- To be added -->
-                  <li class="nav-item"> <a class="nav-link" href="view-asm.php"> View Challenges </a></li> <!-- To be added -->
+                  <!-- <li class="nav-item"> <a class="nav-link" href="update-asm.php"> Add Challenges </a></li> To be added -->
+                  <!-- <li class="nav-item"> <a class="nav-link" href="view-asm.php"> View Challenges </a></li> To be added -->
                 </ul>
               </div>
             </li>
